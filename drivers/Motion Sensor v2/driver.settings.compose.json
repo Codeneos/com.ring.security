@@ -1,7 +1,7 @@
 [
   {
     "type": "group",
-    "label": { "en": "Motion Deletion" },
+    "label": { "en": "Motion Detection" },
     "children": [
       {
         "id": "occupancyClearDelay",
